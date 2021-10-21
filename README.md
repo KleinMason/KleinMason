@@ -1,15 +1,15 @@
 - Hello, everyone! My name is Mason Kleinsorge
-- Currenty (Fall 2021), I'm a student at MSSU in Joplin Missouri
+- Currenty (Fall 2022), I'm a student at MSSU in Joplin Missouri
   - Major 
     - Computer Information Systems 🖥
   - Minors
     - Network Systems Admin
-    - Website Administration
-    - Marketing 
+  - Certificates
+    - App Development    
   - Coursework taken
     - Programming I & II  (C#)
     - Cryptography & .NET Security (C#)
-    - Python Programming I (Python)
+    - Python Programming I & II (Python)
     - App Development for iOS Device (Swift)
     - UNIX System Administration 
 
