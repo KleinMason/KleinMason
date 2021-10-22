@@ -1,5 +1,9 @@
-- Hello, everyone! My name is Mason Kleinsorge
-- Currenty (Fall 2022), I'm a student at MSSU in Joplin Missouri
+<h1>Hello, everyone!</h1> 
+
+<p> My name is Mason Kleinsorge.</p> 
+<p>Currenty I'm pursuing a degree in Computer Information Systems at Missouri Southern State University.</p> 
+
+
   - Major 
     - Computer Information Systems 🖥
   - Minors
