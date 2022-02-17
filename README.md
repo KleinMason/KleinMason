@@ -8,6 +8,7 @@
     - Computer Information Systems 🖥
   - Minors
     - Network Systems Admin
+    - Marketing
   - Certificates
     - App Development    
   - Coursework taken
