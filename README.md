@@ -27,7 +27,7 @@
 <br/>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,ts,js,angular&perline=6)](https://skillicons.dev)
 
 	
  ### GitHub Stats ⚡
